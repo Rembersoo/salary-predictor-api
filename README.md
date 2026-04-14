@@ -8,7 +8,7 @@ Built with real-world salary data (2020–2025) from Kaggle — 9,000+ records
 across global companies.
 
 ## Live API
-🔗 https://your-app.up.railway.app/docs
+🔗https://salary-predictor-api-production-7158.up.railway.app
 
 ## Tech Stack
 - **ML Model** — Random Forest Regressor (scikit-learn), R² score ~0.84
